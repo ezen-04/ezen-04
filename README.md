@@ -22,6 +22,11 @@
 
 [![committers.top badge](https://user-badge.committers.top/ivory_coast/ezen-04.svg)](https://user-badge.committers.top/ivory_coast/ezen-04)
 
+[![committers.top badge](https://user-badge.committers.top/ivory_coast_public/ezen-04.svg)](https://user-badge.committers.top/ivory_coast_public/ezen-04)
+
+[![committers.top badge](https://user-badge.committers.top/ivory_coast_private/ezen-04.svg)](https://user-badge.committers.top/ivory_coast_private/ezen-04)
+
+
 ---
 
 ## 🛠️ Stack Technique | Tech Stack  
@@ -54,11 +59,7 @@
 
 ---
 
-## 💻 Quelques réalisations | Selected Projects  
-
-### 🔹 [Portfolio-web](https://github.com/ezen-04/Portfolio-web)  
-**FR :** Site web portfolio en **HTML/CSS/JS** pour présenter mes projets.  
-**EN :** Portfolio website built with **HTML/CSS/JS** to showcase my projects.  
+## 💻 Quelques réalisations | Selected Projects   
 
 ### 🔹 [Le Couloir GRAF](https://le-couloir-graf.page.gd)  
 **FR :** Plateforme d’archivage en ligne pour centraliser les documents pédagogiques de la filière GRAF de l’IUA.  
