@@ -42,7 +42,6 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" /><br>JavaScript</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="65" height="65" /><br>React JS</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" /><br>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="65" height="65" /><br>PHP</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="65" height="65" /><br>Git</td>
   </tr> 
 </table>
