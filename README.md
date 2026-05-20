@@ -53,8 +53,7 @@
 ## 📬 Contact  
 
 - **Email** : ezechiel.ndri.44@outlook.com  
-- **LinkedIn** : [linkedin.com/in/ezéchiel-n-dri-678257243](https://linkedin.com/in/ezéchiel-n-dri-678257243)
-- **GitHub** : [github.com/ezen-04](https://github.com/ezen-04)  
+- **LinkedIn** : [linkedin.com/in/ezéchiel-n-dri-678257243](https://linkedin.com/in/ezéchiel-n-dri-678257243) 
 - **Localisation | Location** : Abidjan, Côte d’Ivoire  
 
 ---
